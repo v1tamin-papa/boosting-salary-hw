@@ -1,0 +1,7 @@
+.venv/
+catboost_info/
+.claude/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.csv
